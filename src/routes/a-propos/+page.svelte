@@ -1,6 +1,6 @@
 <script>
-  const title = 'A propos du site de test SvelteKit';
-  const description = "Page temoin du site fixture SvelteKit : elle est saine et doit rester rigoureusement intacte apres la correction automatique.";
+  const title = 'À propos : site de test SvelteKit, notre stack et nos choix SEO';
+  const description = "Découvrez notre site de test SvelteKit : une page témoin saine servant de fixture pour valider et démontrer les corrections automatiques. À explorer !";
   const canonical = 'https://noyaru-stack-sveltekit.netlify.app/a-propos';
 </script>
 
