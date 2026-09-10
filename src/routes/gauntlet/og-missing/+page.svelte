@@ -1,9 +1,19 @@
 <script>
   // FAMILLE VISEE : open_graph_tags_missing
   // aucune balise Open Graph.
+  // Ajout des balises Open Graph.
+
+  // FAMILLE VISEE : open_graph_tags_missing
+  // aucune balise Open Graph.
 </script>
 
 <svelte:head>
+  <meta property="og:title" content="Page de test du parcours d'obstacles Noyaru" />
+  <meta property="og:description" content="Page du parcours d'obstacles : elle est correcte partout sauf sur un point precis, afin que la famille visee soit la seule a se declencher au crawl." />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://noyaru-stack-sveltekit.netlify.app/gauntlet/og-missing" />
+  <meta property="og:image" content="https://noyaru-stack-sveltekit.netlify.app/og.png" />
+
   <meta name="viewport" content="width=device-width" />
   <title>Page de test du parcours d'obstacles Noyaru</title>
   <meta name="description" content="Page du parcours d'obstacles : elle est correcte partout sauf sur un point precis, afin que la famille visee soit la seule a se declencher au crawl." />
