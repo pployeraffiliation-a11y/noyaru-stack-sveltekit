@@ -9,7 +9,7 @@
   <meta name="description" content="Page de test pour le parcours d'obstacles Noyaru, illustrant un cas spécifique de fonctionnement." />
   <link rel="canonical" href="https://noyaru-stack-sveltekit.netlify.app/gauntlet/hreflang-to-non-canonical" />
   <link rel="alternate" hreflang="fr" href="https://noyaru-stack-sveltekit.netlify.app/gauntlet/hreflang-to-non-canonical" />
-  <link rel="alternate" hreflang="en" href="https://noyaru-stack-sveltekit.netlify.app/gauntlet/canonical-other" />
+  <link rel="alternate" hreflang="en" href="https://noyaru-stack-sveltekit.netlify.app/gauntlet/canonical-http" />
   <meta property="og:type" content="article" />
   <meta property="og:title" content="Page de test unique du parcours d'obstacles Noyaru" />
   <meta property="og:description" content="Page du parcours d'obstacles : elle est correcte partout sauf sur un point precis, afin que la famille visee soit la seule a se declencher au crawl." />
