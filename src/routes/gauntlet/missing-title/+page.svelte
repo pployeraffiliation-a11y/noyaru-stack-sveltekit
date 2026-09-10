@@ -4,6 +4,7 @@
 </script>
 
 <svelte:head>
+  <title>Parcours d'obstacles - Noyaru</title>
   <meta name="viewport" content="width=device-width" />
   <meta name="description" content="Page du parcours d'obstacles : elle est correcte partout sauf sur un point precis, afin que la famille visee soit la seule a se declencher au crawl." />
   <link rel="canonical" href="https://noyaru-stack-sveltekit.netlify.app/gauntlet/missing-title" />
