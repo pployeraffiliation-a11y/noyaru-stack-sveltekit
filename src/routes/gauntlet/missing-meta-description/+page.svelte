@@ -4,6 +4,7 @@
 </script>
 
 <svelte:head>
+  <meta name="description" content="Page de test du parcours d'obstacles Noyaru pour démontrer une anomalie SEO." />
   <meta name="viewport" content="width=device-width" />
   <title>Page de test du parcours d'obstacles Noyaru</title>
   <link rel="canonical" href="https://noyaru-stack-sveltekit.netlify.app/gauntlet/missing-meta-description" />
