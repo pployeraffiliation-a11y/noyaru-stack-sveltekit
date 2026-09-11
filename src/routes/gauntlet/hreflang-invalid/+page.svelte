@@ -8,7 +8,7 @@
   <title>Parcours d'obstacles Noyaru - Test de fonctionnalité</title>
   <meta name="description" content="Découvrez le parcours d'obstacles Noyaru, une expérience unique et captivante, conçue pour défier vos compétences et votre agilité." />
   <link rel="canonical" href="https://noyaru-stack-sveltekit.netlify.app/gauntlet/hreflang-invalid" />
-  <link rel="alternate" hreflang="fr_FR" href="https://noyaru-stack-sveltekit.netlify.app/gauntlet/hreflang-invalid" />
+  <link rel="alternate" hreflang="fr-FR" href="https://noyaru-stack-sveltekit.netlify.app/gauntlet/hreflang-invalid" />
   <meta property="og:type" content="article" />
   <meta property="og:title" content="Parcours d'obstacles Noyaru - Test de fonctionnalité" />
   <meta property="og:description" content="Découvrez le parcours d'obstacles Noyaru, une expérience unique et captivante, conçue pour défier vos compétences et votre agilité." />
