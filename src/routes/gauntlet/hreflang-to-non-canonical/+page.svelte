@@ -13,7 +13,7 @@
   <meta property="og:type" content="article" />
   <meta property="og:title" content="Test du parcours d'obstacles Noyaru - Double Slash" />
   <meta property="og:description" content="Page de test spécifique pour le parcours d'obstacles Noyaru, mettant en avant un point précis pour la famille visée." />
-  <meta property="og:url" content="https://noyaru-stack-sveltekit.netlify.app/gauntlet/hreflang-to-non-canonical" />
+  <meta property="og:url" content="https://noyaru-stack-sveltekit.netlify.app/gauntlet/canonical-http" />
   <meta property="og:image" content="https://noyaru-stack-sveltekit.netlify.app/og.png" />
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="Test du parcours d'obstacles Noyaru - Double Slash" />
