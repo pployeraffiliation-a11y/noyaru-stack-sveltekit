@@ -8,7 +8,7 @@
   <title>Test du parcours d'obstacles Noyaru - Page unique</title>
   <meta name="description" content="Page de test spécifique pour le parcours d'obstacles Noyaru, illustrant une anomalie unique pour la famille visée." />
   <link rel="canonical" href="https://noyaru-stack-sveltekit.netlify.app/gauntlet/hreflang-invalid" />
-  <link rel="alternate" hreflang="fr_FR" href="https://noyaru-stack-sveltekit.netlify.app/gauntlet/hreflang-invalid" />
+  <link rel="alternate" hreflang="fr-FR" href="https://noyaru-stack-sveltekit.netlify.app/gauntlet/hreflang-invalid" />
   <meta property="og:type" content="article" />
   <meta property="og:title" content="Test du parcours d'obstacles Noyaru - Page unique" />
   <meta property="og:description" content="Page du parcours d'obstacles : elle est correcte partout sauf sur un point precis, afin que la famille visee soit la seule a se declencher au crawl." />
