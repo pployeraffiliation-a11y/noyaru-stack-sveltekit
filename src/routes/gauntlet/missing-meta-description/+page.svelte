@@ -14,6 +14,7 @@
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="Page de test du parcours d'obstacles Noyaru" />
   <meta name="twitter:image" content="https://noyaru-stack-sveltekit.netlify.app/og.png" />
+  <meta name="description" content="Découvrez le parcours d'obstacles Noyaru, une expérience unique et stimulante pour tous les niveaux. Rejoignez-nous pour relever le défi !" />
 </svelte:head>
 
 <h1>Parcours d'obstacles</h1>
