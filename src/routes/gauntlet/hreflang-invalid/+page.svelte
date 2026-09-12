@@ -5,7 +5,7 @@
 
 <svelte:head>
   <meta name="viewport" content="width=device-width" />
-  <title>Page de test du parcours d'obstacles Noyaru</title>
+  <title>Parcours d'obstacles Noyaru - Double Slash</title>
   <meta name="description" content="Découvrez le parcours d'obstacles Noyaru, une expérience unique et stimulante, conçue pour tester vos compétences et votre agilité." />
   <link rel="canonical" href="https://noyaru-stack-sveltekit.netlify.app/gauntlet/hreflang-invalid" />
   <link rel="alternate" hreflang="fr_FR" href="https://noyaru-stack-sveltekit.netlify.app/gauntlet/hreflang-invalid" />
