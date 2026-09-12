@@ -2,6 +2,7 @@
   // FAMILLE VISEE : meta_description_too_short_indexable
   // aucune meta description sur une page indexable.
 </script>
+  <meta name="description" content="Découvrez le parcours d'obstacles Noyaru, une expérience unique et captivante. Rejoignez-nous pour relever le défi !" />
 
 <svelte:head>
   <meta name="viewport" content="width=device-width" />
