@@ -8,6 +8,7 @@
   <title>Parcours d'obstacles Noyaru - Page de test spécifique</title>
   <meta name="description" content="Page de test pour le parcours d'obstacles Noyaru, illustrant un cas spécifique d'anomalie SEO." />
   <link rel="canonical" href="https://noyaru-stack-sveltekit.netlify.app/gauntlet/hreflang-same-language" />
+  <link rel="alternate" hreflang="x-default" href="https://noyaru-stack-sveltekit.netlify.app/gauntlet/hreflang-same-language" />
   <link rel="alternate" hreflang="fr" href="https://noyaru-stack-sveltekit.netlify.app/gauntlet/hreflang-same-language" />
   <meta property="og:type" content="article" />
   <meta property="og:title" content="Page de test du parcours d'obstacles Noyaru" />
