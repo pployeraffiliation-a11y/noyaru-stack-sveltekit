@@ -5,7 +5,7 @@
 
 <svelte:head>
   <meta name="viewport" content="width=device-width" />
-  <title>Page de test du parcours d'obstacles Noyaru</title>
+  <title>Test hreflang invalide - Parcours d'obstacles Noyaru</title>
   <meta name="description" content="Page de test dediee au hreflang invalide : le code de langue est mal forme (soulignement au lieu du tiret) pour declencher cette anomalie precise au crawl." />
   <link rel="canonical" href="https://noyaru-stack-sveltekit.netlify.app/gauntlet/hreflang-invalid" />
   <link rel="alternate" hreflang="fr_FR" href="https://noyaru-stack-sveltekit.netlify.app/gauntlet/hreflang-invalid" />
