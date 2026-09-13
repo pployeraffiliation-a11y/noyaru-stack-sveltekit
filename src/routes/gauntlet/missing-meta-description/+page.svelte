@@ -6,6 +6,7 @@
 <svelte:head>
   <meta name="viewport" content="width=device-width" />
   <title>Page de test du parcours d'obstacles Noyaru</title>
+  <meta name="description" content="Page de test du parcours d'obstacles Noyaru, conçue pour provoquer une anomalie SEO unique et valider le comportement du crawler sur une page indexable." />
   <link rel="canonical" href="https://noyaru-stack-sveltekit.netlify.app/gauntlet/missing-meta-description" />
   <meta property="og:type" content="article" />
   <meta property="og:title" content="Page de test du parcours d'obstacles Noyaru" />
