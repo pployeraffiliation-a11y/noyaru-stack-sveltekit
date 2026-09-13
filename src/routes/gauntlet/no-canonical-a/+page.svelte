@@ -5,6 +5,7 @@
 
 <svelte:head>
   <meta name="viewport" content="width=device-width" />
+  <link rel="canonical" href="https://noyaru-stack-sveltekit.netlify.app/gauntlet/no-canonical-a" />
   <title>Deux pages jumelles sans canonical declare</title>
   <meta name="description" content="Deux pages qui portent exactement la meme meta description, afin de declencher la famille des doublons." />
   <meta property="og:type" content="article" />
