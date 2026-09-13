@@ -5,16 +5,16 @@
 
 <svelte:head>
   <meta name="viewport" content="width=device-width" />
-  <title>Page de test du parcours d'obstacles Noyaru</title>
+  <title>Double barre dans une URL interne — Test Noyaru</title>
   <meta name="description" content="Cas de test du parcours d'obstacles Noyaru dedie a la double barre dans une URL interne, afin d'isoler et declencher cette anomalie au crawl." />
   <link rel="canonical" href="https://noyaru-stack-sveltekit.netlify.app/gauntlet/double-slash" />
   <meta property="og:type" content="article" />
-  <meta property="og:title" content="Page de test du parcours d'obstacles Noyaru" />
+  <meta property="og:title" content="Double barre dans une URL interne — Test Noyaru" />
   <meta property="og:description" content="Cas de test du parcours d'obstacles Noyaru dedie a la double barre dans une URL interne, afin d'isoler et declencher cette anomalie au crawl." />
   <meta property="og:url" content="https://noyaru-stack-sveltekit.netlify.app/gauntlet/double-slash" />
   <meta property="og:image" content="https://noyaru-stack-sveltekit.netlify.app/og.png" />
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="Page de test du parcours d'obstacles Noyaru" />
+  <meta name="twitter:title" content="Double barre dans une URL interne — Test Noyaru" />
   <meta name="twitter:description" content="Cas de test du parcours d'obstacles Noyaru dedie a la double barre dans une URL interne, afin d'isoler et declencher cette anomalie au crawl." />
   <meta name="twitter:image" content="https://noyaru-stack-sveltekit.netlify.app/og.png" />
 </svelte:head>
