@@ -5,7 +5,7 @@
 
 <svelte:head>
   <meta name="viewport" content="width=device-width" />
-  <title>Page de test du parcours d'obstacles Noyaru</title>
+  <title>Cas de test hreflang meme langue vers deux pages</title>
   <meta name="description" content="Cas de test hreflang meme langue : deux annotations hreflang pointent vers le meme code de langue mais deux pages differentes, pour declencher cette anomalie" />
   <link rel="canonical" href="https://noyaru-stack-sveltekit.netlify.app/gauntlet/hreflang-same-language" />
   <link rel="alternate" hreflang="fr" href="https://noyaru-stack-sveltekit.netlify.app/gauntlet/hreflang-same-language" />
