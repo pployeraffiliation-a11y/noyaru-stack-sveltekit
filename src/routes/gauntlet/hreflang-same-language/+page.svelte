@@ -9,6 +9,7 @@
   <meta name="description" content="Cas de test hreflang meme langue : deux annotations hreflang pointent vers le meme code de langue mais deux pages differentes, pour declencher cette anomalie" />
   <link rel="canonical" href="https://noyaru-stack-sveltekit.netlify.app/gauntlet/hreflang-same-language" />
   <link rel="alternate" hreflang="fr" href="https://noyaru-stack-sveltekit.netlify.app/gauntlet/hreflang-same-language" />
+  <link rel="alternate" hreflang="x-default" href="https://noyaru-stack-sveltekit.netlify.app/gauntlet/hreflang-same-language" />
   <meta property="og:type" content="article" />
   <meta property="og:title" content="Page de test du parcours d'obstacles Noyaru" />
   <meta property="og:description" content="Page du parcours d'obstacles : elle est correcte partout sauf sur un point precis, afin que la famille visee soit la seule a se declencher au crawl." />
