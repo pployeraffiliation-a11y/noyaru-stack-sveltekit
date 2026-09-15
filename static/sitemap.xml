@@ -40,3 +40,5 @@
   <url><loc>https://noyaru-stack-sveltekit.netlify.app/gauntlet/noindex-long</loc></url>
   <url><loc>http://noyaru-stack-sveltekit.netlify.app/gauntlet</loc></url>
 </urlset>
+
+Sitemap: https://noyaru-stack-sveltekit.netlify.app/sitemap.xml
