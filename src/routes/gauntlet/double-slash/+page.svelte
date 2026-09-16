@@ -5,16 +5,16 @@
 
 <svelte:head>
   <meta name="viewport" content="width=device-width" />
-  <title>Page de test du parcours d'obstacles Noyaru</title>
+  <title>Gestion des doubles barres dans les URL - Noyaru</title>
   <meta name="description" content="Cette page traite du cas de la double barre dans les URL, un aspect spécifique du parcours d'obstacles Noyaru." />
   <link rel="canonical" href="https://noyaru-stack-sveltekit.netlify.app/gauntlet/double-slash" />
   <meta property="og:type" content="article" />
-  <meta property="og:title" content="Page de test du parcours d'obstacles Noyaru" />
+  <meta property="og:title" content="Gestion des doubles barres dans les URL - Noyaru" />
   <meta property="og:description" content="Cette page traite du cas de la double barre dans les URL, un aspect spécifique du parcours d'obstacles Noyaru." />
   <meta property="og:url" content="https://noyaru-stack-sveltekit.netlify.app/gauntlet/double-slash" />
   <meta property="og:image" content="https://noyaru-stack-sveltekit.netlify.app/og.png" />
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="Page de test du parcours d'obstacles Noyaru" />
+  <meta name="twitter:title" content="Gestion des doubles barres dans les URL - Noyaru" />
   <meta name="twitter:description" content="Cette page traite du cas de la double barre dans les URL, un aspect spécifique du parcours d'obstacles Noyaru." />
   <meta name="twitter:image" content="https://noyaru-stack-sveltekit.netlify.app/og.png" />
 </svelte:head>
