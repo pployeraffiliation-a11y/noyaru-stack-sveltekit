@@ -5,18 +5,18 @@
 
 <svelte:head>
   <meta name="viewport" content="width=device-width" />
-  <title>Page de test du parcours d'obstacles Noyaru</title>
+  <title>Hreflang to Non-Canonical : Test du Parcours d'Obstacles Noyaru</title>
   <meta name="description" content="Cette page illustre un cas de hreflang vers une page non canonique dans un parcours d'obstacles, pour une expérience de test unique." />
   <link rel="canonical" href="https://noyaru-stack-sveltekit.netlify.app/gauntlet/hreflang-to-non-canonical" />
   <link rel="alternate" hreflang="fr" href="https://noyaru-stack-sveltekit.netlify.app/gauntlet/hreflang-to-non-canonical" />
   <link rel="alternate" hreflang="en" href="https://noyaru-stack-sveltekit.netlify.app/gauntlet/canonical-other" />
   <meta property="og:type" content="article" />
-  <meta property="og:title" content="Page de test du parcours d'obstacles Noyaru" />
+  <meta property="og:title" content="Hreflang to Non-Canonical : Test du Parcours d'Obstacles Noyaru" />
   <meta property="og:description" content="Cette page illustre un cas de hreflang vers une page non canonique dans un parcours d'obstacles, pour une expérience de test unique." />
   <meta property="og:url" content="https://noyaru-stack-sveltekit.netlify.app/gauntlet/hreflang-to-non-canonical" />
   <meta property="og:image" content="https://noyaru-stack-sveltekit.netlify.app/og.png" />
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="Page de test du parcours d'obstacles Noyaru" />
+  <meta name="twitter:title" content="Hreflang to Non-Canonical : Test du Parcours d'Obstacles Noyaru" />
   <meta name="twitter:description" content="Cette page illustre un cas de hreflang vers une page non canonique dans un parcours d'obstacles, pour une expérience de test unique." />
   <meta name="twitter:image" content="https://noyaru-stack-sveltekit.netlify.app/og.png" />
 </svelte:head>
