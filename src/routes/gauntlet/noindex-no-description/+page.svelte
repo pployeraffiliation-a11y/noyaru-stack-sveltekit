@@ -7,6 +7,7 @@
   <meta name="viewport" content="width=device-width" />
   <title>Page de test du parcours d'obstacles Noyaru</title>
   <meta name="robots" content="noindex, follow" />
+  <meta name="description" content="Page de test pour le parcours d'obstacles Noyaru, illustrant le cas noindex sans description." />
   <link rel="canonical" href="https://noyaru-stack-sveltekit.netlify.app/gauntlet/noindex-no-description" />
   <meta property="og:type" content="article" />
   <meta property="og:title" content="Page de test du parcours d'obstacles Noyaru" />
