@@ -2,7 +2,7 @@
   const title = 'Blog du site de test SvelteKit';
   const description = "Index du blog du site fixture SvelteKit, servant a verifier que la correction du canonical ne touche ni le layout partage ni les autres pages.";
   // THE INJECTED DEFECT: the trailing slash. The host serves /blog and 301s /blog/ to it.
-  const canonical = 'https://noyaru-stack-sveltekit.netlify.app/blog/';
+  const canonical = 'https://noyaru-stack-sveltekit.netlify.app/blog';
 </script>
 
 <svelte:head>
