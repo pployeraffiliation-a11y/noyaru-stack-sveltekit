@@ -15,6 +15,7 @@
   <meta property="og:description" content="Page de test pour le parcours d'obstacles Noyaru, illustrant le cas noindex sans description." />
   <meta property="og:image" content="https://noyaru-stack-sveltekit.netlify.app/og.png" />
   <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:description" content="Page de test pour le parcours d'obstacles Noyaru, illustrant le cas noindex sans description." />
   <meta name="twitter:title" content="Page de test du parcours d'obstacles Noyaru" />
   <meta name="twitter:image" content="https://noyaru-stack-sveltekit.netlify.app/og.png" />
 </svelte:head>
