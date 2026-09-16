@@ -5,7 +5,7 @@
 
 <svelte:head>
   <meta name="viewport" content="width=device-width" />
-  <title>Deux pages qui portent exactement le meme titre pour le test</title>
+  <title>Test de duplication de titres sur la page duplicate-b</title>
   <meta name="description" content="Deux pages qui portent exactement la meme meta description, afin de declencher la famille des doublons." />
   <link rel="canonical" href="https://noyaru-stack-sveltekit.netlify.app/gauntlet/duplicate-b" />
   <meta property="og:type" content="article" />
