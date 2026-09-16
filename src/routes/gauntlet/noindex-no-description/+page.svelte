@@ -15,6 +15,7 @@
   <meta property="og:url" content="https://noyaru-stack-sveltekit.netlify.app/gauntlet/noindex-no-description" />
   <meta property="og:image" content="https://noyaru-stack-sveltekit.netlify.app/og.png" />
   <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:description" content="Découvrez le parcours d'obstacles Noyaru, une page dédiée aux tests et anomalies. Apprenez-en plus sur notre approche unique." />
   <meta name="twitter:title" content="Page de test du parcours d'obstacles Noyaru" />
   <meta name="twitter:image" content="https://noyaru-stack-sveltekit.netlify.app/og.png" />
 </svelte:head>
