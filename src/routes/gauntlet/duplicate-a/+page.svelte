@@ -5,7 +5,7 @@
 
 <svelte:head>
   <meta name="viewport" content="width=device-width" />
-  <title>Deux pages qui portent exactement le meme titre pour le test</title>
+  <title>Test de parcours d'obstacles : page duplicate a</title>
   <meta name="description" content="Cette page illustre un cas de doublon dans le parcours d'obstacles, mettant en avant une anomalie unique pour le test." />
   <link rel="canonical" href="https://noyaru-stack-sveltekit.netlify.app/gauntlet/duplicate-a" />
   <meta property="og:type" content="article" />
