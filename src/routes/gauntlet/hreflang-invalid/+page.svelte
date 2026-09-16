@@ -8,6 +8,7 @@
   <title>Hreflang invalide dans le parcours d'obstacles Noyaru</title>
   <meta name="description" content="Cette page traite d'un cas d'hreflang invalide dans le parcours d'obstacles, illustrant une anomalie spécifique pour le crawl." />
   <link rel="canonical" href="https://noyaru-stack-sveltekit.netlify.app/gauntlet/hreflang-invalid" />
+  <link rel="alternate" hreflang="x-default" href="https://noyaru-stack-sveltekit.netlify.app/gauntlet/hreflang-invalid" />
   <link rel="alternate" hreflang="fr-FR" href="https://noyaru-stack-sveltekit.netlify.app/gauntlet/hreflang-invalid" />
   <meta property="og:type" content="article" />
   <meta property="og:title" content="Page de test du parcours d'obstacles Noyaru" />
