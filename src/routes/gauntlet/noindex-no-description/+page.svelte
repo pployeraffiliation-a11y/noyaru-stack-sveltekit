@@ -11,6 +11,7 @@
   <meta property="og:type" content="article" />
   <meta property="og:title" content="Page de test du parcours d'obstacles Noyaru" />
   <meta property="og:url" content="https://noyaru-stack-sveltekit.netlify.app/gauntlet/noindex-no-description" />
+  <meta name="description" content="Découvrez le parcours d'obstacles Noyaru, une expérience unique et captivante. Apprenez-en plus sur cette page dédiée au parcours. " />
   <meta property="og:image" content="https://noyaru-stack-sveltekit.netlify.app/og.png" />
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="Page de test du parcours d'obstacles Noyaru" />
