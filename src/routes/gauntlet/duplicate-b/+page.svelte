@@ -5,7 +5,7 @@
 
 <svelte:head>
   <meta name="viewport" content="width=device-width" />
-  <title>Deux pages qui portent exactement le meme titre pour le test</title>
+  <title>Parcours d'obstacles : Duplicate B - Test de Noyaru</title>
   <meta name="description" content="Découvrez le parcours d'obstacles unique de la page duplicate-b, illustrant un cas de doublon pour une expérience de test optimale." />
   <link rel="canonical" href="https://noyaru-stack-sveltekit.netlify.app/gauntlet/duplicate-b" />
   <meta property="og:type" content="article" />
