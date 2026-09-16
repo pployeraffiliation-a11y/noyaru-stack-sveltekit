@@ -10,6 +10,7 @@
   <meta name="description" content="Découvrez le parcours d'obstacles Noyaru, une page dédiée aux tests et anomalies. Apprenez-en plus sur notre approche unique." />
   <link rel="canonical" href="https://noyaru-stack-sveltekit.netlify.app/gauntlet/noindex-no-description" />
   <meta property="og:type" content="article" />
+  <meta property="og:description" content="Découvrez le parcours d'obstacles Noyaru, une page dédiée aux tests et anomalies. Apprenez-en plus sur notre approche unique." />
   <meta property="og:title" content="Page de test du parcours d'obstacles Noyaru" />
   <meta property="og:url" content="https://noyaru-stack-sveltekit.netlify.app/gauntlet/noindex-no-description" />
   <meta property="og:image" content="https://noyaru-stack-sveltekit.netlify.app/og.png" />
