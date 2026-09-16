@@ -5,7 +5,7 @@
 
 <svelte:head>
   <meta name="viewport" content="width=device-width" />
-  <title>Page de test du parcours d'obstacles Noyaru</title>
+  <title>Hreflang Same Language : Test du Parcours d'Obstacles Noyaru</title>
   <meta name="description" content="Cette page traite du cas hreflang same language dans un parcours d'obstacles, illustrant une anomalie spécifique pour un test optimal." />
   <link rel="canonical" href="https://noyaru-stack-sveltekit.netlify.app/gauntlet/hreflang-same-language" />
   <link rel="alternate" hreflang="fr" href="https://noyaru-stack-sveltekit.netlify.app/gauntlet/hreflang-same-language" />
