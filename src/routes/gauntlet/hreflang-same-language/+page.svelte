@@ -8,6 +8,7 @@
   <title>Hreflang Same Language - Parcours d'obstacles Noyaru</title>
   <meta name="description" content="Cette page traite du cas d'hreflang pour la même langue, illustrant un parcours d'obstacles spécifique pour la famille visée." />
   <link rel="canonical" href="https://noyaru-stack-sveltekit.netlify.app/gauntlet/hreflang-same-language" />
+  <link rel="alternate" hreflang="x-default" href="https://noyaru-stack-sveltekit.netlify.app/gauntlet/hreflang-same-language" />
   <link rel="alternate" hreflang="fr" href="https://noyaru-stack-sveltekit.netlify.app/gauntlet/hreflang-same-language" />
   <meta property="og:type" content="article" />
   <meta property="og:title" content="Page de test du parcours d'obstacles Noyaru" />
