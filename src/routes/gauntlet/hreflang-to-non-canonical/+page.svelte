@@ -9,7 +9,7 @@
   <meta name="description" content="Cette page illustre un cas de hreflang vers une page non canonique dans un parcours d'obstacles, pour une expérience de test unique." />
   <link rel="canonical" href="https://noyaru-stack-sveltekit.netlify.app/gauntlet/hreflang-to-non-canonical" />
   <link rel="alternate" hreflang="fr" href="https://noyaru-stack-sveltekit.netlify.app/gauntlet/hreflang-to-non-canonical" />
-  <link rel="alternate" hreflang="en" href="https://noyaru-stack-sveltekit.netlify.app/gauntlet/canonical-other" />
+  <link rel="alternate" hreflang="en" href="https://noyaru-stack-sveltekit.netlify.app/gauntlet/canonical-relay" />
   <meta property="og:type" content="article" />
   <meta property="og:title" content="Hreflang to Non-Canonical : Test du Parcours d'Obstacles Noyaru" />
   <meta property="og:description" content="Cette page illustre un cas de hreflang vers une page non canonique dans un parcours d'obstacles, pour une expérience de test unique." />
