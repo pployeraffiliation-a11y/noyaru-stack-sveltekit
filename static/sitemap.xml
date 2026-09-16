@@ -3,7 +3,6 @@
 <url><loc>https://noyaru-stack-sveltekit.netlify.app/</loc></url>
 <url><loc>https://noyaru-stack-sveltekit.netlify.app/blog</loc></url>
 <url><loc>https://noyaru-stack-sveltekit.netlify.app/a-propos</loc></url>
-  <url><loc>https://noyaru-stack-sveltekit.netlify.app/page-absente</loc></url>
   <url><loc>https://noyaru-stack-sveltekit.netlify.app/gauntlet</loc></url>
   <url><loc>https://noyaru-stack-sveltekit.netlify.app/gauntlet/missing-title</loc></url>
   <url><loc>https://noyaru-stack-sveltekit.netlify.app/gauntlet/missing-meta-description</loc></url>
@@ -40,5 +39,4 @@
   <url><loc>https://noyaru-stack-sveltekit.netlify.app/gauntlet/schema-no-type</loc></url>
   <url><loc>https://noyaru-stack-sveltekit.netlify.app/gauntlet/noindex-no-description</loc></url>
   <url><loc>https://noyaru-stack-sveltekit.netlify.app/gauntlet/noindex-long</loc></url>
-  <url><loc>https://noyaru-stack-sveltekit.netlify.app/page-absente</loc></url>
 </urlset>
