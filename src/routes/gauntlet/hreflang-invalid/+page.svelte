@@ -5,17 +5,17 @@
 
 <svelte:head>
   <meta name="viewport" content="width=device-width" />
-  <title>Page de test du parcours d'obstacles Noyaru</title>
+  <title>Hreflang Invalid - Parcours d'obstacles Noyaru</title>
   <meta name="description" content="Cette page traite d'un cas spécifique d'hreflang invalid, illustrant un parcours d'obstacles pour la famille visée." />
   <link rel="canonical" href="https://noyaru-stack-sveltekit.netlify.app/gauntlet/hreflang-invalid" />
   <link rel="alternate" hreflang="fr_FR" href="https://noyaru-stack-sveltekit.netlify.app/gauntlet/hreflang-invalid" />
   <meta property="og:type" content="article" />
-  <meta property="og:title" content="Page de test du parcours d'obstacles Noyaru" />
+  <meta property="og:title" content="Hreflang Invalid - Parcours d'obstacles Noyaru" />
   <meta property="og:description" content="Cette page traite d'un cas spécifique d'hreflang invalid, illustrant un parcours d'obstacles pour la famille visée." />
   <meta property="og:url" content="https://noyaru-stack-sveltekit.netlify.app/gauntlet/hreflang-invalid" />
   <meta property="og:image" content="https://noyaru-stack-sveltekit.netlify.app/og.png" />
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="Page de test du parcours d'obstacles Noyaru" />
+  <meta name="twitter:title" content="Hreflang Invalid - Parcours d'obstacles Noyaru" />
   <meta name="twitter:description" content="Cette page traite d'un cas spécifique d'hreflang invalid, illustrant un parcours d'obstacles pour la famille visée." />
   <meta name="twitter:image" content="https://noyaru-stack-sveltekit.netlify.app/og.png" />
 </svelte:head>
