@@ -5,7 +5,7 @@
 
 <svelte:head>
   <meta name="viewport" content="width=device-width" />
-  <title>Page de test du parcours d'obstacles Noyaru</title>
+  <title>Hreflang to Non Canonical - Parcours d'obstacles Noyaru</title>
   <meta name="description" content="Cette page traite des anomalies liées aux hreflangs non canoniques dans le parcours d'obstacles Noyaru, avec un point précis à corriger pour le crawl." />
   <link rel="canonical" href="https://noyaru-stack-sveltekit.netlify.app/gauntlet/hreflang-to-non-canonical" />
   <link rel="alternate" hreflang="fr" href="https://noyaru-stack-sveltekit.netlify.app/gauntlet/hreflang-to-non-canonical" />
