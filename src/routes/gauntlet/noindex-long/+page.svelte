@@ -5,7 +5,7 @@
 
 <svelte:head>
   <meta name="viewport" content="width=device-width" />
-  <title>Un titre volontairement beaucoup trop long pour la fenetre visee par le correcteur, ecrit pour depasser nettement le plafond</title>
+  <title>Titre trop long pour le correcteur - Noyaru 2023, analyse</title>
   <meta name="description" content="Une meta description trop longue pour un crawler. Page non indexable sur noyaru-stack-sveltekit.netlify.app, traitant des descriptions 2023." />
   <meta name="robots" content="noindex, follow" />
   <link rel="canonical" href="https://noyaru-stack-sveltekit.netlify.app/gauntlet/noindex-long" />
