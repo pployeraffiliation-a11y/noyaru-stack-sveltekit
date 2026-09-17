@@ -9,7 +9,7 @@
   <meta name="description" content="Cette page traite des anomalies liées aux hreflangs non canoniques dans le parcours d'obstacles Noyaru, avec un point précis à corriger pour le crawl." />
   <link rel="canonical" href="https://noyaru-stack-sveltekit.netlify.app/gauntlet/hreflang-to-non-canonical" />
   <link rel="alternate" hreflang="fr" href="https://noyaru-stack-sveltekit.netlify.app/gauntlet/hreflang-to-non-canonical" />
-  <link rel="alternate" hreflang="en" href="https://noyaru-stack-sveltekit.netlify.app/gauntlet/canonical-other" />
+  <link rel="alternate" hreflang="en" href="https://noyaru-stack-sveltekit.netlify.app/gauntlet/canonical-relay" />
   <meta property="og:type" content="article" />
   <meta property="og:title" content="Page de test du parcours d'obstacles Noyaru" />
   <meta property="og:description" content="Page du parcours d'obstacles : elle est correcte partout sauf sur un point precis, afin que la famille visee soit la seule a se declencher au crawl." />
