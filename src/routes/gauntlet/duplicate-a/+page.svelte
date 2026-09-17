@@ -5,7 +5,7 @@
 
 <svelte:head>
   <meta name="viewport" content="width=device-width" />
-  <title>Deux pages qui portent exactement le meme titre pour le test</title>
+  <title>Test de doublons dans les titres - Parcours d'obstacles Noyaru</title>
   <meta name="description" content="Cette page traite des anomalies liées aux doublons dans les meta descriptions du parcours d'obstacles Noyaru." />
   <link rel="canonical" href="https://noyaru-stack-sveltekit.netlify.app/gauntlet/duplicate-a" />
   <meta property="og:type" content="article" />
