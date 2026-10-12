@@ -5,7 +5,7 @@
 
 <svelte:head>
   <meta name="viewport" content="width=device-width" />
-  <title>Deux pages jumelles sans canonical declare</title>
+  <title>Parcours Noyaru : page jumelle A sans canonical declare</title>
   <meta name="description" content="Page jumelle A du parcours d'obstacles : contenu identique a sa jumelle B, aucune canonical declaree, afin de declencher la detection des pages dupliquees." />
   <meta property="og:type" content="article" />
   <meta property="og:title" content="Deux pages jumelles sans canonical declare" />
