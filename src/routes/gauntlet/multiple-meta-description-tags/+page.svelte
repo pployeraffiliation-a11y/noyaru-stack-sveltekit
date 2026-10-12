@@ -6,7 +6,6 @@
 <svelte:head>
   <meta name="viewport" content="width=device-width" />
   <title>Parcours Noyaru : multiple meta description tags</title>
-  <meta name="description" content="Page « multiple meta description tags » du parcours d'obstacles : correcte partout sauf sur un point precis, pour que seule la famille visee se declenche." />
   <link rel="canonical" href="https://noyaru-stack-sveltekit.netlify.app/gauntlet/multiple-meta-description-tags" />
   <meta property="og:type" content="article" />
   <meta property="og:title" content="Parcours Noyaru : multiple meta description tags" />
@@ -17,6 +16,7 @@
   <meta name="twitter:title" content="Parcours Noyaru : multiple meta description tags" />
   <meta name="twitter:description" content="Page « multiple meta description tags » du parcours d'obstacles : correcte partout sauf sur un point precis, pour que seule la famille visee se declenche." />
   <meta name="twitter:image" content="https://noyaru-stack-sveltekit.netlify.app/og.png" />
+    <meta name="description" content="Page « multiple meta description tags » du parcours d'obstacles : correcte partout sauf sur un point precis, pour que seule la famille visee se declenche." />
 </svelte:head>
 
 <h1>Parcours d'obstacles : multiple meta description tags</h1>
