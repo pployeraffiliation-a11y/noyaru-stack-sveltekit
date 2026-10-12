@@ -10,6 +10,7 @@
   <link rel="canonical" href="https://noyaru-stack-sveltekit.netlify.app/gauntlet/missing-meta-description" />
   <meta property="og:type" content="article" />
   <meta property="og:title" content="Parcours Noyaru : missing meta description" />
+  <meta property="og:description" content="Page du parcours d'obstacles dédiée à l'anomalie missing meta description : aucune balise description n'était présente, afin de déclencher cette famille lors" />
   <meta property="og:url" content="https://noyaru-stack-sveltekit.netlify.app/gauntlet/missing-meta-description" />
   <meta property="og:image" content="https://noyaru-stack-sveltekit.netlify.app/og.png" />
   <meta name="twitter:card" content="summary_large_image" />
