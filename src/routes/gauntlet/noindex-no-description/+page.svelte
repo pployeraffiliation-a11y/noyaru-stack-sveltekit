@@ -11,6 +11,7 @@
   <link rel="canonical" href="https://noyaru-stack-sveltekit.netlify.app/gauntlet/noindex-no-description" />
   <meta property="og:type" content="article" />
   <meta property="og:title" content="Page de test du parcours d'obstacles Noyaru" />
+  <meta property="og:description" content="Page du parcours d'obstacles traitant le cas noindex sans description : anomalie ciblée pour valider la détection et la correction automatique" />
   <meta property="og:url" content="https://noyaru-stack-sveltekit.netlify.app/gauntlet/noindex-no-description" />
   <meta property="og:image" content="https://noyaru-stack-sveltekit.netlify.app/og.png" />
   <meta name="twitter:card" content="summary_large_image" />
