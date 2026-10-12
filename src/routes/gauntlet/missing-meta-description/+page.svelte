@@ -6,6 +6,7 @@
 <svelte:head>
   <meta name="viewport" content="width=device-width" />
   <title>Parcours Noyaru : missing meta description</title>
+  <meta name="description" content="Page du parcours d'obstacles dédiée à l'anomalie missing meta description : aucune balise description n'était présente, afin de déclencher cette famille lors" />
   <link rel="canonical" href="https://noyaru-stack-sveltekit.netlify.app/gauntlet/missing-meta-description" />
   <meta property="og:type" content="article" />
   <meta property="og:title" content="Parcours Noyaru : missing meta description" />
