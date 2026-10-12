@@ -6,7 +6,7 @@
 <svelte:head>
   <meta name="viewport" content="width=device-width" />
   <title>Deux pages jumelles sans canonical declare</title>
-  <meta name="description" content="Deux pages jumelles au contenu identique et sans canonical declare : le doublon que la famille des pages dupliquees doit trouver." />
+  <meta name="description" content="Page jumelle A du parcours d'obstacles : contenu identique a sa jumelle B, aucune canonical declaree, afin de declencher la detection des pages dupliquees." />
   <meta property="og:type" content="article" />
   <meta property="og:title" content="Deux pages jumelles sans canonical declare" />
   <meta property="og:description" content="Deux pages jumelles au contenu identique et sans canonical declare : le doublon que la famille des pages dupliquees doit trouver." />
