@@ -6,16 +6,16 @@
 <svelte:head>
   <meta name="viewport" content="width=device-width" />
   <title>Deux pages qui portent exactement le meme titre pour le test</title>
-  <meta name="description" content="Deux pages qui portent exactement la meme meta description, afin de declencher la famille des doublons." />
+  <meta name="description" content="Page duplicate-a du parcours d'obstacles : elle partageait sa meta description avec duplicate-b pour declencher la famille des doublons lors du recrawl" />
   <link rel="canonical" href="https://noyaru-stack-sveltekit.netlify.app/gauntlet/duplicate-a" />
   <meta property="og:type" content="article" />
   <meta property="og:title" content="Deux pages qui portent exactement le meme titre pour le test" />
-  <meta property="og:description" content="Deux pages qui portent exactement la meme meta description, afin de declencher la famille des doublons." />
+  <meta property="og:description" content="Page duplicate-a du parcours d'obstacles : elle partageait sa meta description avec duplicate-b pour declencher la famille des doublons lors du recrawl automatique." />
   <meta property="og:url" content="https://noyaru-stack-sveltekit.netlify.app/gauntlet/duplicate-a" />
   <meta property="og:image" content="https://noyaru-stack-sveltekit.netlify.app/og.png" />
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="Deux pages qui portent exactement le meme titre pour le test" />
-  <meta name="twitter:description" content="Deux pages qui portent exactement la meme meta description, afin de declencher la famille des doublons." />
+  <meta name="twitter:description" content="Page duplicate-a du parcours d'obstacles : elle partageait sa meta description avec duplicate-b pour declencher la famille des doublons lors du recrawl automatique." />
   <meta name="twitter:image" content="https://noyaru-stack-sveltekit.netlify.app/og.png" />
 </svelte:head>
 
