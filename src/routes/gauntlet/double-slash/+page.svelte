@@ -5,16 +5,16 @@
 
 <svelte:head>
   <meta name="viewport" content="width=device-width" />
-  <title>Page de test du parcours d'obstacles Noyaru</title>
+  <title>Parcours d'obstacles Noyaru — lien double barre oblique</title>
   <meta name="description" content="Parcours d'obstacles double-slash : cette page contient un lien avec une double barre oblique pour declencher uniquement la famille double_slash_in_url au" />
   <link rel="canonical" href="https://noyaru-stack-sveltekit.netlify.app/gauntlet/double-slash" />
   <meta property="og:type" content="article" />
-  <meta property="og:title" content="Page de test du parcours d'obstacles Noyaru" />
+  <meta property="og:title" content="Parcours d'obstacles Noyaru — lien double barre oblique" />
   <meta property="og:description" content="Parcours d'obstacles double-slash : cette page contient un lien avec une double barre oblique pour declencher uniquement la famille double_slash_in_url au crawl." />
   <meta property="og:url" content="https://noyaru-stack-sveltekit.netlify.app/gauntlet/double-slash" />
   <meta property="og:image" content="https://noyaru-stack-sveltekit.netlify.app/og.png" />
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="Page de test du parcours d'obstacles Noyaru" />
+  <meta name="twitter:title" content="Parcours d'obstacles Noyaru — lien double barre oblique" />
   <meta name="twitter:description" content="Parcours d'obstacles double-slash : cette page contient un lien avec une double barre oblique pour declencher uniquement la famille double_slash_in_url au crawl." />
   <meta name="twitter:image" content="https://noyaru-stack-sveltekit.netlify.app/og.png" />
 </svelte:head>
