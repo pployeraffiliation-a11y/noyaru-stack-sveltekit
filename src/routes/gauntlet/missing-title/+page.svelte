@@ -4,6 +4,7 @@
 </script>
 
 <svelte:head>
+  <title>Parcours Noyaru : page sans titre, cas missing title</title>
   <meta name="viewport" content="width=device-width" />
   <meta name="description" content="Page « missing title » du parcours d'obstacles : correcte partout sauf sur un point precis, pour que seule la famille visee se declenche." />
   <link rel="canonical" href="https://noyaru-stack-sveltekit.netlify.app/gauntlet/missing-title" />
