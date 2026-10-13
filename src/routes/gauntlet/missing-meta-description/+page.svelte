@@ -16,6 +16,7 @@
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="Parcours Noyaru : missing meta description" />
   <meta name="twitter:image" content="https://noyaru-stack-sveltekit.netlify.app/og.png" />
+  <meta name="twitter:description" content="Page « missing meta description » du parcours d'obstacles : correcte partout sauf sur ce point précis, pour que seule la famille visée se déclenche." />
 </svelte:head>
 
 <h1>Parcours d'obstacles : missing meta description</h1>
