@@ -17,7 +17,7 @@
   <meta name="twitter:title" content="Parcours Noyaru : redirected css" />
   <meta name="twitter:description" content="Page « redirected css » du parcours d'obstacles : correcte partout sauf sur un point precis, pour que seule la famille visee se declenche." />
   <meta name="twitter:image" content="https://noyaru-stack-sveltekit.netlify.app/og.png" />
-  <link rel="stylesheet" href="/ancienne.css" />
+  <link rel="stylesheet" href="/style.css" />
 </svelte:head>
 
 <h1>Parcours d'obstacles : redirected css</h1>
