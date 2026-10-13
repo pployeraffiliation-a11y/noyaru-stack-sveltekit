@@ -17,6 +17,7 @@
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="Parcours Noyaru : noindex no description" />
   <meta name="twitter:image" content="https://noyaru-stack-sveltekit.netlify.app/og.png" />
+  <meta name="twitter:description" content="Page noindex sans description du parcours d'obstacles : elle est correcte partout sauf sur ce point precis, pour que seule cette famille se declenche." />
 </svelte:head>
 
 <h1>Parcours d'obstacles : noindex no description</h1>
