@@ -11,6 +11,7 @@
   <meta property="og:title" content="Parcours Noyaru : missing meta description" />
   <meta property="og:url" content="https://noyaru-stack-sveltekit.netlify.app/gauntlet/missing-meta-description" />
   <meta property="og:image" content="https://noyaru-stack-sveltekit.netlify.app/og.png" />
+  <meta name="description" content="Page « missing meta description » du parcours d'obstacles : correcte partout sauf sur ce point précis, pour que seule la famille visée se déclenche." />
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="Parcours Noyaru : missing meta description" />
   <meta name="twitter:image" content="https://noyaru-stack-sveltekit.netlify.app/og.png" />
