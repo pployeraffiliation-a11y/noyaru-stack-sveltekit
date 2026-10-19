@@ -11,6 +11,7 @@
   <meta property="og:title" content="Parcours Noyaru : missing meta description" />
   <meta property="og:url" content="https://noyaru-stack-sveltekit.netlify.app/gauntlet/missing-meta-description" />
   <meta property="og:image" content="https://noyaru-stack-sveltekit.netlify.app/og.png" />
+  <meta property="og:description" content="Page du parcours d'obstacles dédiée au cas missing meta description : aucune description n'était présente, afin de déclencher uniquement cette anomalie SEO." />
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="Parcours Noyaru : missing meta description" />
   <meta name="twitter:image" content="https://noyaru-stack-sveltekit.netlify.app/og.png" />
