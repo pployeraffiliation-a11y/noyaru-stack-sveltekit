@@ -12,6 +12,7 @@
   <meta property="og:type" content="article" />
   <meta property="og:title" content="Parcours Noyaru : noindex no description" />
   <meta property="og:url" content="https://noyaru-stack-sveltekit.netlify.app/gauntlet/noindex-no-description" />
+  <meta property="og:description" content="Page noindex sans description du parcours d'obstacles : elle provoque l'anomalie missing_meta_description et une seule, pour exercer le correcteur SEO." />
   <meta property="og:image" content="https://noyaru-stack-sveltekit.netlify.app/og.png" />
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="Parcours Noyaru : noindex no description" />
