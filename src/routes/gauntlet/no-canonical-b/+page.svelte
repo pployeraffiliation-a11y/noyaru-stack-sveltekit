@@ -6,7 +6,7 @@
 <svelte:head>
   <meta name="viewport" content="width=device-width" />
   <link rel="canonical" href="https://noyaru-stack-sveltekit.netlify.app/gauntlet/no-canonical-a" />
-  <title>Deux pages jumelles sans canonical declare</title>
+  <title>Parcours Noyaru : page jumelle B sans balise canonical</title>
   <meta name="description" content="Page jumelle B du parcours d'obstacles : contenu identique a no-canonical-a, sans balise canonical, pour declencher la detection des pages dupliquees." />
   <meta property="og:type" content="article" />
   <meta property="og:title" content="Deux pages jumelles sans canonical declare" />
