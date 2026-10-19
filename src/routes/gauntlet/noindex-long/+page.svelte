@@ -5,7 +5,7 @@
 
 <svelte:head>
   <meta name="viewport" content="width=device-width" />
-  <title>Un titre volontairement beaucoup trop long pour la fenetre visee par le correcteur, ecrit pour depasser nettement le plafond</title>
+  <title>Un titre volontairement trop long pour la fenêtre visée ici</title>
   <meta name="description" content="Une meta description volontairement longue, dépassant le plafond retenu par le crawler, pour déclencher les descriptions trop longues sur page non indexable." />
   <meta name="robots" content="noindex, follow" />
   <link rel="canonical" href="https://noyaru-stack-sveltekit.netlify.app/gauntlet/noindex-long" />
